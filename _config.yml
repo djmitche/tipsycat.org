@@ -1,0 +1,4 @@
+name: Tipsy Cat Brewing
+markdown: redcarpet
+pygments: false
+exclude: [ sandbox, .git ]

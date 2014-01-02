@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Liquid Sunshine Starter Arithmetic"
+title:  "Liquid Sunbeam Starter Arithmetic"
 date:   2014-01-01 21:30:03
 categories: [yeast,  technique]
 ---

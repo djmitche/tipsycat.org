@@ -1,4 +1,8 @@
 name: Tipsy Cat Brewing
+url: http://tipsycat.org
+author: Dustin J. Mitchell
 markdown: redcarpet
 pygments: false
 exclude: [ sandbox, .git ]
+
+# rss stuff

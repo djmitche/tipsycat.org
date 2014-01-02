@@ -1,0 +1,56 @@
+/* CSS to style a beersmith HTML file */
+#wrapper {
+    border: thin gold solid;
+    padding: 0.5em;
+    border-radius: 1em;
+    width: 41em;
+    font-weight: normal;
+    font-family: Times, serif;
+}
+
+#wrapper .logo h1, #wrapper .logo h2 {
+    margin: 0px;
+    font-size: 1.7em;
+}
+
+#wrapper .logo {
+    margin-bottom: 0.5em;
+}
+
+#wrapper .logo h2 {
+    font: 1em Times, serif;
+    margin-left: 2em;
+}
+
+#wrapper .glass {
+    display: none;
+}
+
+#wrapper .col1, #wrapper .col2 {
+    min-width: 20em;
+    width: 20em;
+}
+
+#wrapper .col1 {
+    float: left;
+}
+
+#wrapper .col2 {
+    float: right;
+}
+
+#wrapper .full {
+    clear: both;
+}
+
+#wrapper .item {
+    font-weight: bold;
+}
+
+#wrapper caption, #wrapper h3 {
+    font-size: 1.5em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+

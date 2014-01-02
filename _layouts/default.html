@@ -8,6 +8,9 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
+        {% for stylesheet in page.extra_css %}
+        <link rel="stylesheet" href="/css/{{ stylesheet }}">
+        {% endfor %}
 
     </head>
     <body>

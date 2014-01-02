@@ -1,0 +1,16 @@
+---
+layout: default
+title: Tipsy Cat - Beers
+---
+
+<div id="beers">
+  <h1>Tipsy Cat Beers</h1>
+  <ul class="posts">
+  {% for page in site.pages %}
+    {% if page.beer %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a><span> &#8212; a {{ page.style }}</span></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
+

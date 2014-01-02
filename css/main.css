@@ -65,28 +65,30 @@ a:visited { color: #a0a; }
   width: 300px;
   z-index: -1;
   opacity: 1.0;
+  transition: opacity 0.5s ease;
 }
 
 .sitewrap {
-  min-width: 47em;
-  margin-left: 23em;
+  min-width: 628px;
+  margin-left: 300px;
+  margin-right: 7px;
 }
 
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
+  width: 628px;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
 
 /* hide the cat and start collapsing the wrapper when it overlaps the text */
-@media (max-width: 972px) {
+@media (max-width: 935px) {
   #cat {
     opacity: 0.15;
   }
   .sitewrap {
-    width: 42em;
+    width: 628px;
     margin-left: auto;
   }
 }
@@ -99,12 +101,14 @@ a:visited { color: #a0a; }
 .title {
   display: inline-block;
   margin-bottom: 2em;
-  margin-left: -5em;
+  margin-left: -70px;
+  transition: margin-left 0.5s ease;
 }
 
-@media (max-width: 972px) {
+@media (max-width: 928px) {
   .title {
     margin-left: 0px;
+    transition: margin-left 0.5s ease;
   }
 }
 
@@ -210,3 +214,4 @@ table tr td, table tr th {
     padding-left: 0.5em;
     padding-right: 0.5em;
 }
+

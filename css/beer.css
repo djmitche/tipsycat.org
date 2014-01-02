@@ -1,11 +1,12 @@
 /* CSS to style a beersmith HTML file */
 #wrapper {
-    border: thin gold solid;
-    padding: 0.5em;
-    border-radius: 1em;
-    width: 41em;
+    border: 1px gold solid;
+    padding: 4px;
+    border-radius: 8px;
+    width: 618px;
     font-weight: normal;
     font-family: Times, serif;
+    background-color: #FFF;
 }
 
 #wrapper .logo h1, #wrapper .logo h2 {
@@ -18,7 +19,7 @@
 }
 
 #wrapper .logo h2 {
-    font: 1em Times, serif;
+    font: bold Times, serif;
     margin-left: 2em;
 }
 
@@ -27,8 +28,9 @@
 }
 
 #wrapper .col1, #wrapper .col2 {
-    min-width: 20em;
-    width: 20em;
+    min-width: 305px;
+    width: 305px;
+    
 }
 
 #wrapper .col1 {
@@ -52,5 +54,18 @@
     margin-top: 1em;
     margin-bottom: 0.5em;
     text-align: center;
+}
+
+#wrapper table.BeerSmithTable {
+    width: 610px;
+    margin: 4px;
+}
+
+#wrapper table.BeerSmithTable tr:nth-child(even) {
+    background-color: #F9F9F9;
+}
+
+#wrapper table.BeerSmithTable tr:nth-child(1) {
+    background-color: #F0F0F0;
 }
 

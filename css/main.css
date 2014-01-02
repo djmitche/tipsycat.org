@@ -99,6 +99,13 @@ a:visited { color: #a0a; }
 .title {
   display: inline-block;
   margin-bottom: 2em;
+  margin-left: -5em;
+}
+
+@media (max-width: 972px) {
+  .title {
+    margin-left: 0px;
+  }
 }
 
 .title a {
@@ -121,6 +128,11 @@ a:visited { color: #a0a; }
 
 .meta {
   color: #aaa;
+}
+
+.content h1 {
+  text-align: center;
+  font: bold 1.4em Times, serif;
 }
 
 .footer {

@@ -1,4 +1,8 @@
-/* CSS to style a beersmith HTML file */
+/* my comments */
+#comments {
+}
+
+/* CSS to style a beersmith HTML file's wrapper div */
 #wrapper {
     border: 1px gold solid;
     padding: 4px;

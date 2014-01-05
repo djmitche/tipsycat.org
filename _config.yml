@@ -4,5 +4,4 @@ author: Dustin J. Mitchell
 markdown: redcarpet
 pygments: false
 exclude: [ sandbox, .git ]
-
-# rss stuff
+permalink: /posts/:year/:month/:title.html

@@ -6,4 +6,14 @@ layout: default
 
 <div class="post">
 {{ content }}
+<div id="comments"></div>
+<script src="https://apis.google.com/js/plusone.js"></script>
+<script>
+gapi.comments.render('comments', {
+    href: window.location,
+    width: '628',
+    first_party_property: 'BLOGGER',
+    view_type: 'FILTERED_POSTMOD'
+});
+</script>
 </div>

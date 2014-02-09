@@ -71,7 +71,7 @@ Results
 
 The finished controller looks like this:
 
-![Finished Controller](/imag/pump-controller-finished.jpg)
+![Finished Controller](/img/pump-controller-assembled.jpg)
 
 The switches are mounted at the top with the intention that the box would be mounted with the cable entering from below, adding a little drip resistance.
 This isn't a NEMA-4 installation, but every little bit helps.

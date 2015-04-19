@@ -11,7 +11,7 @@ The 2014 is still in its glass fermenter, although curiously lacking a pelicle.
 
 The 2015, however, was quite a sight to behold when I cracked the lid last week:
 
-![Alien Lifeforms?](/img/bad-lambic.png)
+![Alien Lifeforms?](/img/bad-lambic.jpg)
 
 The smell wasn't great, either.
 I had no doubt this was a dumper, but the forms of the infection were fascinating.

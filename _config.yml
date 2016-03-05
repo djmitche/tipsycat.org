@@ -1,7 +1,9 @@
 name: Tipsy Cat Brewing
+port: 8010
+host: 0.0.0.0
 url: http://tipsycat.org
 author: Dustin J. Mitchell
-markdown: redcarpet
+markdown: kramdown
 pygments: false
 exclude: [ sandbox, .git ]
 permalink: /posts/:year/:month/:title.html

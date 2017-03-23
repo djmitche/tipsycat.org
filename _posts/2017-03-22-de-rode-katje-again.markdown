@@ -31,3 +31,6 @@ The plan is to take this off primary fairly quickly, once the kreusen falls,
 mix it about 50/50 with the barrel batch (last cycled in January), and
 immediately chill and pressurize the result to try to slow down any bacterial
 fermentation of the remaining sugars.
+
+Some photos and videos of this brew session are in [this
+album](https://photos.google.com/share/AF1QipPSbuRe9o-4UGHf4yIMltiiVG1CR2eJPzntwnyuZEt99PXe_GOPIEbfTRP0lh3pOA?key=MW9COGZmbTg2a1hvOWNtV1duU1V1aUZEUXZJZ1RR).
